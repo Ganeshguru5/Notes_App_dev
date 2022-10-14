@@ -1,0 +1,21 @@
+.HomeContainer{
+    width: 2900px;
+}
+.homehead{
+   font-size: 33px; 
+}
+.AddNote{ 
+    background-color: #f5f5f5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    min-width: 450px;   
+}
+.AllNotes{
+    height: 500px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.AllNotes::-webkit-scrollbar{
+    display: none;
+}

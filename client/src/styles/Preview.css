@@ -1,0 +1,19 @@
+.bothone{
+    display: flex;
+    flex-direction: row;
+}
+.firstone{
+    margin-right: 30px;
+    color: #afafaf;
+}
+.secondone{
+    font-weight: bold;
+}
+.previewContainer{
+    margin: 30px;
+    width: 8000px;
+}
+.headerText{
+    font-size: 40px;
+    font-weight: bold;
+}

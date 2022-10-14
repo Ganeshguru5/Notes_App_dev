@@ -1,0 +1,73 @@
+.input{
+    width: 100%;
+    height: 40px;
+    border-radius:40px;
+    border-width: 0.3px;
+    padding-left: 13px;
+}
+
+.LoginContainer{
+    
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+}
+
+.coverImage{
+    width: 50%;
+    height: 100%;
+    margin: 40px;
+}
+
+.twohalf{
+    width: 50%;
+}
+
+.Loginbtn{
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    height: 45px;
+}
+.LoginHeader{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.inputHead{
+    font-weight: bold;
+    font-size: 13px;
+}
+.desc{
+    color: #b6b6be;
+    font-size: 14px;
+    font-weight: bold;
+}
+.Forgot{
+    font-weight: bold;
+    font-size: 13px;
+    color: #5136ee;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #b6b6be;
+    opacity: 1; /* Firefox */
+    font-weight:lighter;
+}
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #b6b6be;
+}
+  
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #b6b6be;
+}

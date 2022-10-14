@@ -1,0 +1,11 @@
+.subpreview{
+    display: flex;
+    flex-direction: row;
+}
+.ApipreviewContainer{
+    
+    width: 8000px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}

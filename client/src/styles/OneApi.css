@@ -1,0 +1,16 @@
+.oneApiCon{
+    display: flex;
+    flex-direction: row;
+    background-color: #f6f6f6; 
+   padding: 20px;
+   margin: 30px;
+   border-radius: 14px;
+   text-decoration: none;
+}
+.title1{
+    font-weight: bold;
+    font-size: 16px;
+}
+.value1{
+    font-size: 16px;
+}
