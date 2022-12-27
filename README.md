@@ -91,7 +91,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ganeshguru5/React_native_instagram_redesign.git
+   https://github.com/Ganeshguru5/Notes_App_dev.git
    ```
 2. Install NPM packages
    ```sh
